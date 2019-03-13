@@ -1,5 +1,7 @@
 body {
   font-family: sans-serif;
+  line-height: 125%;
+  padding: 50px;
   margin: auto;
   max-width: 1280px;
 }
@@ -21,4 +23,3 @@ body {
 .navbar a:hover {
   color: #ffffff;
 }
-
